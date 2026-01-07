@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Django
+db.sqlite3
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Media files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Images (optional – keep if needed)
+*.zip
+
+# Django static collected
+staticfiles/
